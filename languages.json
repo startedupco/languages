@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Afrikaans"
+  },
+  {
+    "name": "English"
+  },
+  {
+    "name": "isiNdebele"
+  },
+  {
+    "name": "isiXhosa"
+  },
+  {
+    "name": "isiZulu"
+  },
+  {
+    "name": "Sepedi",
+    "also_known_as": [
+      "Sesotho sa Leboa",
+      "Northern Sotho"
+    ]
+  },
+  {
+    "name": "Sesotho"
+  },
+  {
+    "name": "Setswana"
+  },
+  {
+    "name": "siSwati"
+  },
+  {
+    "name": "Tshivenda"
+  },
+  {
+    "name": "Xitsonga"
+  },
+  {
+    "name": "South African Sign Language",
+    "abbreviation": "SASL"
+  }
+]
